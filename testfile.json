@@ -1,0 +1,11 @@
+{
+    "hello":{
+        "en":"My name is John",
+        "de":"Mein Name ist John"
+    },
+    
+    "RedBall":{
+        "en":"That is a ##color## ##object##",
+        "de":"Das ist eine ##color## ##object##"
+    }
+}

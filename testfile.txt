@@ -1,0 +1,3 @@
+"Languages","en","de"
+"hello","My name is John","Meine Name ist John"
+"RedBall","That is a ##color## ##object##","Das ist eine ##color## ##object##"
