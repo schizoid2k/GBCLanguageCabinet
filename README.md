@@ -1,6 +1,6 @@
 # About This Repository #
 
-**GBC Language Cabinet** is a free CoronaSDK plugin that allows you to easily manage text translation within your game.  Text can be added via code, json, or comma delimited file.
+**GBC Language Cabinet** is a free Solar2D plugin that allows you to easily manage text translation within your game.  Text can be added via code, json, or comma delimited file.
 
 This repository contains the sample code that is referenced in the plugin documentation.
 
